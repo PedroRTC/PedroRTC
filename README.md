@@ -1,4 +1,4 @@
- ### Olá! Eu sou o Pedro Ronaldo 👋
+ ### Olá, Eu sou  Pedro Ronaldo 👋
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=green)](https://pedro-portfolio06.netlify.app/)
 [![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/pedrortc/overview)
@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRTC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnoligias utilizadas por min
+### Tecnologias utilizadas por min
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
