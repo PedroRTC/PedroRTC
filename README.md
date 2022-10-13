@@ -7,8 +7,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585988996987)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRTC&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRTC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRTC&layout=lengs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias utilizadas por mim
 
