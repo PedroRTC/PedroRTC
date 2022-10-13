@@ -1,4 +1,4 @@
- ### Olá, eu sou  Pedro Ronaldo 👋
+ ### Olá, eu sou o Pedro Ronaldo 👋
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=green)](https://pedro-portfolio06.netlify.app/)
 [![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/pedrortc/overview)
